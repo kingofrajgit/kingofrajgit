@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kingofrajgit
+- 👋 Hi, I’m 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -6,16 +6,19 @@
 -  
 # My skill's 
   ## Client side Technologies:
-    - Angular, HTML, CSS, JavaScript, 
+    - Angular, HTML, CSS, JavaScript 
     
-  ## in Backend side: 
+  ## Backend: 
     - Java, pyhton, NodeJs
     
-  ## Server Side Technologies 
+  ## Server Side Technologies: 
     - SpringBoot, Hibernate, JDBC, Servlet
     
   ## DevOps:
     - Maven, Jenkins, Docker, SonarCloud, Sonsrlint
+  ## Automated tools:
+    - apache airflow
     
-  ## Database 
+  ## Database:
     -MySql
+    -PostgerSql
